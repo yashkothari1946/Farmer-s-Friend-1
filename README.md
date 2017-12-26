@@ -1,3 +1,4 @@
+
 # Farmer-s-Friend
 This repository is having files of Farmer's Friend Mobile Application
 
@@ -8,13 +9,14 @@ The main idea behind this application is to facilitate farmers with such an appl
 
 ## Technology Stack
 The Major Technologies used by this application are:
-    * Android
-    * Php
-    * IBM Cloud
-    * Augmented Reality(A.R.)
-    * Data APIs
-    * Google APIs
-These are the major technologies. however, there are some more technologies used at the backend to provide additional functionalities.
+
+    -Android
+    -Php
+    -IBM Cloud
+    -Augmented Reality(AR)
+    -Data APIs
+    -Google APIs
+These are the major technologies. However, there are some more technologies used at the backend to provide additional functionalities.
 
 
 ## Working of Functionalities
@@ -35,4 +37,3 @@ These are the major technologies. however, there are some more technologies used
   ### Current Market Report
       - This feature shows a market report including the Minimum Support Price(MSP) and the current market rates of various corps.
       - This also predicts the rise and fall in the prices of the crop in near future, which helps farmers to take better decisions.
-
