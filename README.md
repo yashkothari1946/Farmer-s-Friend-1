@@ -14,7 +14,7 @@ The Major Technologies used by this application are:
     * Augmented Reality(A.R.)
     * Data APIs
     * Google APIs
-These are the major technologies. however, there are some more technologies used at the backend to provide additional functionalities.
+These are the major technologies. however, there are some more technologies used at the backend to provide additional functionalities to the app.
 
 
 ## Working of Functionalities
