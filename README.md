@@ -1,8 +1,8 @@
 # Farmer-s-Friend
-This repository is having files of Farmer's Friend Mobile Application
+This repository is having files of Farmer's Friend Mobile Application.  
 
 ## About
-Our project is all about helping farmers using Digital Technologies and making their daily work easier.
+Our project is all about helping farmers using Digital Technologies and making their daily work a lot more easier.
 Farmer's Mark is a mobile application which uses Digital Technologies such as Artificial Intelligence, Cloud Computing, Data Analysis, IOT, etc. to help farmers.
 The main idea behind this application is to facilitate farmers with such an application which will not only help them do better Crop Management but also know the current status of their crops. Using these application farmers can know more about their crops using Visual Recognition Feature of the application and they can also check the current market rates and MSP of the Crops.
 
