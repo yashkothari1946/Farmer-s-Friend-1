@@ -1,5 +1,5 @@
 # Farmer-s-Friend
-This repository is having files of Farmer's Friend Mobile Application
+This repository is having files of Farmer's Friend Mobile Application.
 
 ## About
 Our project is all about helping farmers using Digital Technologies and making their daily work easier.
